@@ -1,7 +1,7 @@
-package Maps;
+
 import java.util.HashMap;
 
-public class HashMapExample {
+public class Maps {
     public static void main(String[] args) {
         // Creating a HashMap
         HashMap<String, Double> stockPortfolio = new HashMap<>();
