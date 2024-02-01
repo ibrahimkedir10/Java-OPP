@@ -1,3 +1,4 @@
+package maps;
 public class Equals {
     public static void main(String[] args) {
         Pizza one = new Pizza();
